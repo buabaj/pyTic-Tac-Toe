@@ -1,2 +1,3 @@
 # pyTic-Tac-Toe
- python tic-tac-toe game in various frameworks
+
+python AI tic-tac-toe game in various frameworks
